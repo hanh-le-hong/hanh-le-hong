@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Growth_%26_Product_Marketing-%C3%97_AI-1F6FEB?style=flat-square)
 ![](https://img.shields.io/badge/Status-Building_in_public-2EA043?style=flat-square)
 ![](https://img.shields.io/badge/Hospitality_%7C_Fintech_%7C_Media_%7C_Marketplace_%7C_SaaS-SEA_%2B_US%2C_CA%2C_EU%2C_AU-D9920B?style=flat-square)
+
 # Hi, I'm Hanh Le (call me April)
 
 **Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
@@ -9,11 +10,13 @@ Product marketing, growth and GTM mean different things depending on the busines
 
 I chose roles that each taught me one of these, so I could see the whole engine. That is what an Integrator does: connect marketing craft and marketing systems to one business outcome.
 
+Brand first, then tech. **Craft is where I come from. Systems is where I am going deep.**
+
 ---
 
 ## One engine, five business models
 
-| Years | Company | Business model | What it taught me | Pod it built |
+| Years | Company | Business model | What it taught me | Craft |
 |---|---|---|---|---|
 | 2018 | Accor | Hospitality brand | Brand and positioning craft | Product Marketing |
 | 2022-23 | MoMo, Financial Services | Fintech super-app, financial products | Growing financial products inside a super-app | Growth |
@@ -34,31 +37,19 @@ I chose roles that each taught me one of these, so I could see the whole engine.
 
 ---
 
-## Now: turning that range into a system
+## Now: going deep on systems
 
-Most AI marketing tools automate the analyst. Analysis is getting cheap. Judgment is not.
+**[marketing-systems-lab](https://github.com/hanh-le-hong/marketing-systems-lab)**
+Building depth in marketing systems, AI fluency and measurement. In public. Every piece ends with the question a pure analyst often skips: *so what should marketing do differently?*
 
-**[ai-growth-team](https://github.com/hanh-le-hong/ai-growth-team)** is the other half: a team of AI agents organised in three pods, with a human Head who sets direction, rejects the wrong options and owns the outcome. Each pod is built from what one business model taught me.
+| Pillar | What I am building | Status |
+|---|---|---|
+| **Measurement & Analytics** | Marketing analytics case studies: KPI trees, funnels, experiments | Lab 01 in progress |
+| **AI Fluency** | Tested agent skills for growth, product marketing, GTM, financial modeling | Planned |
+| **Marketing Systems** | Workflow automation: tracking, routing, lifecycle | Planned |
+| **Learning Log** | What I study, where I push back, where I apply it | Ongoing |
 
-| Module | Where | What it does | Status |
-|---|---|---|---|
-| **Head OS** | [head/](https://github.com/hanh-le-hong/ai-growth-team/tree/main/head) | North star, KPI tree, briefs, decision log | Building |
-| **Growth pod** | [pods/growth](https://github.com/hanh-le-hong/ai-growth-team/tree/main/pods/growth) | Daily check, root cause diagnosis, experiment design | Building |
-| **Product Marketing pod** | [pods/product-marketing](https://github.com/hanh-le-hong/ai-growth-team/tree/main/pods/product-marketing) | Positioning, messaging, competitive intel, launch | Building |
-| **GTM pod** | [pods/gtm](https://github.com/hanh-le-hong/ai-growth-team/tree/main/pods/gtm) | Revenue, channel budget, ICP research | Roadmap |
-| **Skills library** | [skills/](https://github.com/hanh-le-hong/ai-growth-team/tree/main/skills) | Shared SOPs across the growth lifecycle | Building |
-| **Runs** | [runs/](https://github.com/hanh-le-hong/ai-growth-team/tree/main/runs) | End-to-end runs, from signal to decision | First run: Oct 2026 |
-
-### What it should save
-
-Targets now. Measured numbers replace them after each run.
-
-| Workflow | Manual | Target | Measured |
-|---|---|---|---|
-| Daily performance check | 45 min | 5 min | TBD |
-| Root cause of a conversion drop | 1 day | 1 hour | TBD |
-| Test plan from a root cause | 3 hours | 30 min | TBD |
-| Positioning first draft | 6 hours | 1 hour | TBD |
+Every piece is labelled **Real**, **Simulated** or **Analysis**, so you always know what came from my work and what I built to practise.
 
 ---
 
@@ -66,21 +57,20 @@ Targets now. Measured numbers replace them after each run.
 
 ```
 Q4 2026
-├── Growth pod v1: Performance Analyst, Diagnostic Investigator, Experiment Designer
-├── Product Marketing pod v1: Positioning & Messaging
-└── First full run on a public B2C ecommerce case
+├── KPI tree and funnel diagnosis on public ecommerce data
+├── First tested skills for growth and product marketing
+└── UTM and tracking plan
 
 Q1 2027
-├── GTM pod: Revenue Analyst, Channel & Budget
-├── B2B SaaS anchor case
-└── Skills released as an installable pack
+├── Experiment readouts and attribution
+├── Lead-to-CRM and lifecycle workflows
+└── More tested skills: GTM, financial modeling
 ```
 
 ## Latest builds
 
 **Sep 2026**
-- Team design: 1 Head, 3 pods, 12 agents, 4 in v1
-- Repo structure, agent specs and Head operating model published
+- Lab published: 3 pillars, learning log, templates, honest labels
 
 ---
 
@@ -88,4 +78,4 @@ Q1 2027
 
 [LinkedIn](https://www.linkedin.com/in/hanhlehong/) | [Email](mailto:lehhanh74@gmail.com)
 
-*Five business models, one engine. Building the AI team I would want to run.*
+*Craft is where I come from. Systems is where I am going deep.*
