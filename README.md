@@ -1,8 +1,9 @@
-# Hi, I'm Le Hong Hanh (April)
 
-** Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
+# Hi, I'm Le Hong Hanh (call me April make it more easier ^^)
 
-Product marketing, Growth and GTM mean different things depending on the business. In a super-app, growth is the whole game. In B2B SaaS, the message decides the pipeline. In a marketplace, you balance two sides at once.
+**Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
+
+Product marketing, growth and GTM mean different things depending on the business. In a super-app, growth is the whole game. In B2B SaaS, the message decides the pipeline. In a marketplace, you balance two sides at once.
 
 I chose roles that each taught me one of these, so I could see the whole engine. That is what an Integrator does: connect marketing craft and marketing systems to one business outcome.
 
@@ -13,17 +14,19 @@ I chose roles that each taught me one of these, so I could see the whole engine.
 | Years | Company | Business model | What it taught me | Pod it built |
 |---|---|---|---|---|
 | 2018 | Accor | Hospitality brand | Brand and positioning craft | Product Marketing |
-| 2022-23 | MoMo | Fintech super-app, B2C | Product growth inside a super-app | Growth |
+| 2022-23 | MoMo, Financial Services | Fintech super-app, financial products | Growing financial products inside a super-app | Growth |
 | 2023 | Metub Network | Digital media network | Content and creator distribution | Growth |
 | 2024-25 | Grab | Two-sided marketplace | Insights, marketplace strategy, data | GTM |
 | 2025-26 | FireGroup (Zopi, Promer) | Global B2B SaaS, Shopify ecosystem, AI ad creative | Positioning and launch for global merchants | Product Marketing, GTM |
-| 2026-now | MoMo, rehired as Growth Lead | Fintech, public services | Growth across paid, SEO and government partners | Growth |
+| 2026-now | MoMo, Payments (rehired as Growth Lead) | Fintech super-app, payments | Payment growth at scale across paid and SEO | Growth |
 
-** MoMo brought me back at a more senior level.** Range was the plan. Results are the proof.
+**MoMo brought me back at a more senior level, into its other flagship division.** Financial Services first, Payments now: the two largest divisions of Vietnam's leading super-app. Range was the plan. Results are the proof.
 
+<!-- TODO: fill before this link goes on the CV -->
 | Role | Result |
 |---|---|
-| Growth Lead, MoMo | [result with number] |
+| Growth Lead, MoMo Payments | [result with number] |
+| Financial Services, MoMo | [result with number] |
 | Product Marketing, FireGroup | [result with number] |
 | Insights & Marketplace Strategy, Grab | [result with number] |
 
@@ -81,7 +84,6 @@ Q1 2027
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/hanhlehong/) 
-[Email](mailto:lehhanh74@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hanhlehong/) | [Email](mailto:lehhanh74@gmail.com)
 
 *Five business models, one engine. Building the AI team I would want to run.*
