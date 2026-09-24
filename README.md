@@ -1,5 +1,5 @@
 
-# Hi, I'm Le Hong Hanh (call me April make it more easier ^^)
+# Hi, I'm Le Hong Hanh (call me April )
 
 **Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
 
