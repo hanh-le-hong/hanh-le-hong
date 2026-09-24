@@ -19,7 +19,7 @@ I chose roles that each taught me one of these, so I could see the whole engine.
 | 2022-23 | MoMo, Financial Services | Fintech super-app, financial products | Growing financial products inside a super-app | Growth |
 | 2023 | Metub Network | Digital media network | Content and creator distribution | Growth |
 | 2024-25 | Grab | Two-sided marketplace | Insights, marketplace strategy, data | GTM |
-| 2025-26 | FireGroup (Zopi, Promer) | Global B2B SaaS, Shopify ecosystem, AI ad creative | Positioning and launch for global merchants | Product Marketing, GTM |
+| 2025-26 | FireGroup (Zopi, Promer) | Global B2B SaaS for merchants in the US, Canada, Europe and Australia | Positioning and launch for global merchants | Product Marketing, GTM |
 | 2026-now | MoMo, Payments (rehired as Growth Lead) | Fintech super-app, payments | Payment growth at scale across paid and SEO | Growth |
 
 **MoMo brought me back at a more senior level, into its other flagship division.** Financial Services first, Payments now: the two largest divisions of Vietnam's leading super-app. Range was the plan. Results are the proof.
