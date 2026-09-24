@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Growth_%26_Product_Marketing-%C3%97_AI-1F6FEB?style=flat-square)
 ![](https://img.shields.io/badge/Status-Building_in_public-2EA043?style=flat-square)
-![](https://img.shields.io/badge/Hospitality_%7C_Fintech_%7C_Media_%7C_Marketplace_%7C_SaaS-SEA-D9920B?style=flat-square)
-
+![](https://img.shields.io/badge/Hospitality_%7C_Fintech_%7C_Media_%7C_Marketplace_%7C_SaaS-SEA_%2B_US%2C_CA%2C_EU%2C_AU-D9920B?style=flat-square)
 # Hi, I'm Hanh Le (call me April)
 
 **Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
