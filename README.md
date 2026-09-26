@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Growth_%26_Product_Marketing-%C3%97_AI-1F6FEB?style=flat-square)
 ![](https://img.shields.io/badge/Status-Building_in_public-2EA043?style=flat-square)
-![](https://img.shields.io/badge/Hospitality_%7C_Fintech_%7C_Media_%7C_Marketplace_%7C_SaaS-SEA_%2B_US%2C_CA%2C_EU%2C_AU-D9920B?style=flat-square)
+![](https://img.shields.io/badge/Hospitality_%7C_Fintech_%7C_Marketplace_%7C_SaaS-SEA_%2B_US%2C_CA%2C_EU%2C_AU-D9920B?style=flat-square)
 
 # Hi, I'm Hanh Le (call me April)
 
-**Growth & Product Marketing Lead. I have run marketing in five business models, on purpose.**
+**Product marketing and growth leader. 8 years, four business models, on purpose.**
 
-Product marketing, growth and GTM mean different things depending on the business. In a super-app, growth is the whole game. In B2B SaaS, the message decides the pipeline. In a marketplace, you balance two sides at once.
+Product marketing, growth and GTM mean different things depending on the business. In a super-app, growth is the whole game. In global SaaS, the message decides the pipeline. In a marketplace, you balance two sides at once.
 
 I chose roles that each taught me one of these, so I could see the whole engine. That is what an Integrator does: connect marketing craft and marketing systems to one business outcome.
 
@@ -14,26 +14,26 @@ Brand first, then tech. **Craft is where I come from. Systems is where I am goin
 
 ---
 
-## One engine, five business models
+## One engine, four business models
 
-| Years | Company | Business model | What it taught me | Craft |
+| Years | Company | Role | Business model | What it taught me |
 |---|---|---|---|---|
-| 2018 | Accor | Hospitality brand | Brand and positioning craft | Product Marketing |
-| 2022-23 | MoMo, Financial Services | Fintech super-app, financial products | Growing financial products inside a super-app | Growth |
-| 2023 | Metub Network | Digital media network | Content and creator distribution | Growth |
-| 2024-25 | Grab | Two-sided marketplace | Insights, marketplace strategy, data | GTM |
-| 2025-26 | FireGroup (Zopi, Promer) | Global B2B SaaS for merchants in the US, Canada, Europe and Australia | Positioning and launch for global merchants | Product Marketing, GTM |
-| 2026-now | MoMo, Payments (rehired as Growth Lead) | Fintech super-app, payments | Payment growth at scale across paid and SEO | Growth |
+| 2018-2020 | Accor (MGallery Collection) | Brand Marketing Specialist | Luxury hospitality brand | Brand, positioning, loyalty |
+| 2021-2023 | MoMo, Financial Services | Product Growth Executive | Fintech super-app | Acquisition and GTM for financial products |
+| 2023-2025 | Grab, Insights & Marketplace Strategy | Senior Planner | Two-sided marketplace | Marketplace economics, sources of growth |
+| 2025-2026 | FireGroup (Zopi, Promer) | Product Marketing Strategist | Global B2B SaaS for merchants in the US, Canada, Europe and Australia | Full-funnel product marketing, install to conversion |
+| 2026-now | MoMo, Payments | Growth Lead | Fintech super-app | Incubating new growth engines |
 
-**MoMo brought me back at a more senior level, into its other flagship division.** Financial Services first, Payments now: the two largest divisions of Vietnam's leading super-app. Range was the plan. Results are the proof.
+**MoMo brought me back at a more senior level, into its other flagship division.** Financial Services first, Payments now. Range was the plan. Results are the proof.
 
-<!-- TODO: fill before this link goes on the CV -->
-| Role | Result |
+## Selected results
+
+| Where | Result |
 |---|---|
-| Growth Lead, MoMo Payments | [result with number] |
-| Financial Services, MoMo | [result with number] |
-| Product Marketing, FireGroup | [result with number] |
-| Insights & Marketplace Strategy, Grab | [result with number] |
+| FireGroup | Grew Zopi into a top-5 developer in its Shopify App Store category, serving nearly 1M merchants |
+| Grab | Delivered 100%+ of revenue targets on monetization programs for Food and Mart FMCG enterprise accounts |
+| MoMo | Acquired 500K new users and USD 800K revenue on flagship campaigns (Tết "Lắc Xì", "Mega") |
+| Accor | Lifted brand awareness 40% and website traffic 25% in one quarter; loyalty enrollment and repeat bookings up 15% |
 
 ---
 
